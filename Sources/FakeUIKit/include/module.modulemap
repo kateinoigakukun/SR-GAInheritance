@@ -1,0 +1,4 @@
+module FakeUIKit {
+  header "FakeUIKit.h"
+  export *
+}
